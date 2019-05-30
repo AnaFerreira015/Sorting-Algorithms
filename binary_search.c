@@ -42,7 +42,7 @@ void reading_array(int *array, int size, int i)
 
 /**
  * Function for debugging
- * It receives an array, the size of the array and an index for the recursion
+ * It receives a sorted array, the size of the array and an index for the recursion
  * Displays the values of each array index
  */
 void printing_array(int *array, int size, int i)
